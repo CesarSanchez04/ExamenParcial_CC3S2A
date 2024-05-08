@@ -1,0 +1,16 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒÈ…Ü8°ÚÂÃõ1J$ed230fb8-8867-4363-abe9-634d97ea3670
+™
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ8×¸çÂõ1J$5148b13b-e9d3-41de-91ad-1e11b61334f8
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îü±¯8ß¸çÂõ1J$0adf3bd0-d758-4a6c-b845-45fcc6c46c1f
+m	java:S106"+Replace this use of System.out by a logger.(© éó8à¸çÂõ1J$c2097ec4-2394-49c2-9d14-704505cdee24
+l	java:S106"+Replace this use of System.out by a logger.(Çæ¶N8à¸çÂõ1J$57d71d63-0fc8-4a5a-8581-699cc6dfdc74
+r	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8â¸çÂõ1J$2f0f4fe5-9f00-4d0b-9ab1-686385fed953
+m	java:S106"+Replace this use of System.out by a logger.(¦‹¡¿8â¸çÂõ1J$34284562-1901-4cc3-943c-40fbfd9cd473
+r	java:S106"+Replace this use of System.out by a logger.(ÌÕù‡øÿÿÿÿ8â¸çÂõ1J$4c4047ff-c325-4e44-9408-f8a7e13e9877
+r	java:S106"+Replace this use of System.out by a logger.(ı×å—øÿÿÿÿ8â¸çÂõ1J$9217675f-0bf9-4525-bc76-2a2bdd4aa06d
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Ùæl8â¸çÂõ1J$0342d074-ac17-4260-8541-f6ba99a15a3f
+~	java:S125"<This block of commented-out lines of code should be removed.(¿íÆú8Ï©‘Ãõ1J$49c197e9-344e-4f95-a347-73cfb2e2dd53
+	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÌäŠ8Ÿì•Ãõ1J$deb74091-d1ab-4937-b663-8fbb6cd464e1
+l	java:S106&"+Replace this use of System.out by a logger.(Ï°™-8Ÿì•Ãõ1J$f780fdfb-0ceb-4961-aab9-6a8ea91ff422
+r	java:S106'"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8‰è–Ãõ1J$45cb64df-54c4-462b-a60b-ec42005cc7be

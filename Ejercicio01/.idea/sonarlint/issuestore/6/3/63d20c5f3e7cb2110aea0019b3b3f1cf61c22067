@@ -1,3 +1,15 @@
 
-d
-java:S2094"BRemove this empty class, write its code or make it an "interface".(ŠğÌşÿÿÿÿ8í®ËÁõ1
+™
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ8×¸çÂõ1J$cab4770c-5ced-4d8f-b39d-917235f4c0a8
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îü±¯8ß¸çÂõ1J$b56c0ce1-d7c4-41b2-b1ab-2b8f40f54d9b
+m	java:S106"+Replace this use of System.out by a logger.(© éó8à¸çÂõ1J$5d78b8fb-8656-4918-b6ae-e262a9a3c5df
+l	java:S106"+Replace this use of System.out by a logger.(Çæ¶N8à¸çÂõ1J$1e3079ed-b295-4083-98ec-24d5fdc88ca7
+r	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8â¸çÂõ1J$470695e4-f03b-4081-99ee-d8586a56b855
+m	java:S106"+Replace this use of System.out by a logger.(¦‹¡¿8â¸çÂõ1J$fd697b53-251d-40bd-a3f5-ccdf01289ff0
+r	java:S106"+Replace this use of System.out by a logger.(ÌÕù‡øÿÿÿÿ8â¸çÂõ1J$b10667ee-d758-4543-ae81-4eabec030f6a
+r	java:S106"+Replace this use of System.out by a logger.(ı×å—øÿÿÿÿ8â¸çÂõ1J$e9f4977a-76fa-4d51-b467-f5dfef6ceb1b
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Ùæl8â¸çÂõ1J$f1fd9278-cb8b-4cde-8020-17f863528c7f
+~	java:S125"<This block of commented-out lines of code should be removed.(¿íÆú8Ï©‘Ãõ1J$bef4b661-1e7f-4be8-a8b7-c581c99aebd8
+	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÌäŠ8Ÿì•Ãõ1J$aa47e6e2-e527-4692-99ab-6d2e7b167c03
+l	java:S106$"+Replace this use of System.out by a logger.(Ï°™-8Ÿì•Ãõ1J$4a3e2c2c-6791-45e3-b22a-db805aec718a
+r	java:S106%"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8‰è–Ãõ1J$0dac82eb-5707-496c-901b-96fbc030576c
