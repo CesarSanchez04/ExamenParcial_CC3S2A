@@ -1,4 +1,4 @@
-package Sprint3.Production;
+package Sprint3;
 
 import java.util.Scanner;
 

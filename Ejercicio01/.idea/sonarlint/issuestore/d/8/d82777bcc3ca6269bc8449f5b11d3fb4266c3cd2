@@ -1,0 +1,14 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(š“é…ÿÿÿÿÿJ$aed002bd-d78f-4ea8-8301-75cd384b2ad4
+‰	java:S100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îü±¯J$9a08684b-2b00-4ebe-8c72-e0a22c788514
+f	java:S106"+Replace this use of System.out by a logger.(© éóJ$e0e79915-fe0c-476e-8922-bc2aa1e05fb4
+e	java:S106"+Replace this use of System.out by a logger.(Çæ¶NJ$9dc51a6e-2269-443b-824b-9e153f151399
+k	java:S106"+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿJ$2c7c90e5-a2d1-4e0a-bc23-7970330bd34d
+f	java:S106"+Replace this use of System.out by a logger.(¦‹¡¿J$5f398ff4-d6ce-402f-a982-c1407bf2860e
+k	java:S106"+Replace this use of System.out by a logger.(ÌÕù‡øÿÿÿÿJ$c1ceaafb-4dce-459f-8626-cfdff7ff24a3
+k	java:S106"+Replace this use of System.out by a logger.(ý×å—øÿÿÿÿJ$19f36d39-3300-4cf2-97f7-823f70790489
+ˆ	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ÙælJ$90fa22dc-ba77-42d1-8c8e-201ff436d5a0
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(¬ƒÚ©ÿÿÿÿÿ8«’èÃõ1J$c45229f4-0be4-4c44-b854-7a3d5c06eea7
+‰	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÌäŠJ$2eebe41b-4e7d-4edb-925c-b812761ef002
+e	java:S106#"+Replace this use of System.out by a logger.(Ï°™-J$43cef6d4-1539-4853-a56d-7f3df1d9fa49

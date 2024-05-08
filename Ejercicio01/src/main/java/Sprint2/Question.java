@@ -1,12 +1,14 @@
-package Sprint1.Production;
+package Sprint2;
+
 import java.util.Scanner;
-import java.lang.*;
 
 public class Question {
     Scanner scanner = new Scanner(System.in);
+    int cont = 0;
+    int cant_preg = 0;
 
     public void pregunta1(){
-        System.out.println("Pregunta 1: ¿Cuál es la capital de Francia?\n");
+        System.out.println("Pregunta 1: ¿Cuál es la capital de Francia?");
         System.out.println("1) Paris");
         System.out.println("2) Berlin");
         System.out.println("3) Lima");
@@ -16,10 +18,11 @@ public class Question {
 
         int resp = scanner.nextInt();
         Verificar(respuesta, resp);
+        System.out.println("");
     }
 
-    public int pregunta2(){
-        System.out.println("Pregunta 1: ¿Cuál es la capital de Alemania?\n");
+    public void pregunta2(){
+        System.out.println("Pregunta 2: ¿Cuál es la capital de Alemania?");
         System.out.println("1) Paris");
         System.out.println("2) Berlin");
         System.out.println("3) Lima");
@@ -27,11 +30,13 @@ public class Question {
         System.out.print("Tu respuesta:");
         int respuesta = 2;
 
-        return respuesta;
+        int resp = scanner.nextInt();
+        Verificar(respuesta, resp);
+        System.out.println("");
     }
 
-    public int pregunta3(){
-        System.out.println("Pregunta 1: ¿Cuál es la capital de Inglaterra?\n");
+    public void pregunta3(){
+        System.out.println("Pregunta 3: ¿Cuál es la capital de Inglaterra?");
         System.out.println("1) Paris");
         System.out.println("2) Berlin");
         System.out.println("3) Lima");
@@ -39,11 +44,13 @@ public class Question {
         System.out.print("Tu respuesta:");
         int respuesta = 4;
 
-        return respuesta;
+        int resp = scanner.nextInt();
+        Verificar(respuesta, resp);
+        System.out.println("");
     }
 
     public int pregunta4(){
-        System.out.println("Pregunta 1: ¿Cuál es la capital de Peru?\n");
+        System.out.println("Pregunta 4: ¿Cuál es la capital de Peru?");
         System.out.println("1) Paris");
         System.out.println("2) Berlin");
         System.out.println("3) Lima");
@@ -55,7 +62,7 @@ public class Question {
     }
 
     public int pregunta5(){
-        System.out.println("Pregunta 1: ¿Cuál es la capital de Colombia?\n");
+        System.out.println("Pregunta 5: ¿Cuál es la capital de Colombia?");
         System.out.println("1) Buenos Aires");
         System.out.println("2) Bogota");
         System.out.println("3) Asunsion");
@@ -67,7 +74,7 @@ public class Question {
     }
 
     public int pregunta6(){
-        System.out.println("Pregunta 1: ¿Cuál es la capital de Argentina?\n");
+        System.out.println("Pregunta 5: ¿Cuál es la capital de Argentina?");
         System.out.println("1) Buenos Aires");
         System.out.println("2) Bogota");
         System.out.println("3) Asunsion");
@@ -130,8 +137,13 @@ public class Question {
     public void Verificar(int respuesta,int resp){
         if(respuesta == resp){
             System.out.println("Correcto!");
+            cont ++;
         }else{
             System.out.println("Incorrecto!");
         }
+    }
+
+    public void Puntuacion(){
+        System.out.println("Puntuacion: " + cont);
     }
 }

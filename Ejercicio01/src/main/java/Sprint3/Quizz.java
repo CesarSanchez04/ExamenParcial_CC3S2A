@@ -1,4 +1,4 @@
-package Sprint2.Production;
+package Sprint3;
 
 import java.util.Scanner;
 
@@ -20,13 +20,13 @@ public class Quizz {
         question.pregunta1();
         question.pregunta2();
         question.pregunta3();
-//        question.pregunta4();
-//        question.pregunta5();
-//        question.pregunta6();
-//        question.pregunta7();
-//        question.pregunta8();
-//        question.pregunta9();
-//        question.pregunta10();
+        question.pregunta4();
+        question.pregunta5();
+        question.pregunta6();
+        question.pregunta7();
+        question.pregunta8();
+        question.pregunta9();
+        question.pregunta10();
 
 
     }

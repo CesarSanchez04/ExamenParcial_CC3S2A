@@ -1,6 +1,7 @@
-package Sprint3.Production;
+package Sprint1;
 
 import java.util.Scanner;
+import java.lang.*;
 
 public class Quizz {
 
@@ -18,21 +19,21 @@ public class Quizz {
 
     public void CargarPreguntas(){
         question.pregunta1();
-        question.pregunta2();
-        question.pregunta3();
-        question.pregunta4();
-        question.pregunta5();
-        question.pregunta6();
-        question.pregunta7();
-        question.pregunta8();
-        question.pregunta9();
-        question.pregunta10();
+//        question.pregunta2();
+//        question.pregunta3();
+//        question.pregunta4();
+//        question.pregunta5();
+//        question.pregunta6();
+//        question.pregunta7();
+//        question.pregunta8();
+//        question.pregunta9();
+//        question.pregunta10();
 
 
     }
 
     public void End(){
         System.out.println("Juego terminado. Aqui esta su puntuacion");
-        question.Puntuacion();
+        System.out.println();
     }
 }
